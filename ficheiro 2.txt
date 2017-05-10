@@ -1,0 +1,14 @@
+Este ficheiro vai ter linhas amais que vou er adicionadas nos commits seguintes
+As linhas vão ser numeradas
+linha 1 vai ter algo escrito mas vai ser apagado
+linha 2 vai servir de teste à escrita da primeira linha 
+linas 3 e 4 vão ser escritas quase ao mesmo tempo mas carregadas em commits locais diferentes
+linha 5 éa comfirmação do recuo no ultimo commit
+linha 6 éa confirmação do recuo das linhas 5 e 3 por parte de outra pessoa
+1
+2
+3
+4
+5
+6
+
